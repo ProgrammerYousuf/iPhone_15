@@ -6,7 +6,7 @@ import Features from './Components/Features';
 import Footer from './Components/Footer';
 import LocomotiveScroll from 'locomotive-scroll';
 import * as Sentry from '@sentry/react';
-import HowItWorks from './Components/HowitWorks';
+import HowItWorks from './Components/HowItWorks';
 
 
 const App = () => {
